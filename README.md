@@ -37,6 +37,7 @@ Obstacle Detected?
 Buzzer +      Normal
 Vibration     Monitoring
 
+---
 
 ## Working Principle
 
@@ -57,6 +58,7 @@ Vibration     Monitoring
 
 6. As the obstacle becomes farther away, the alert can be reduced or stopped.
 
+---
 
 ## Components
 
@@ -73,6 +75,7 @@ Breadboard / PCB	Circuit assembly
 Jumper Wires	Connections
 Spectacle Frame	Wearable structure
 
+---
 
 ## Pin Connections
 
@@ -90,6 +93,7 @@ Motor Driver Ground	Common GND
 
 > Note: A vibration motor should not normally be driven directly from an Arduino GPIO pin. Use an appropriate transistor or MOSFET and a protection diode.
 
+--- 
 
 ## Features
 
@@ -109,6 +113,7 @@ Rechargeable battery concept
 
 Low-cost prototype design
 
+---
 
 ## Applications
 
@@ -124,6 +129,7 @@ Embedded systems projects
 
 Accessibility-focused technology research
 
+---
 
 ## Advantages
 
@@ -139,6 +145,7 @@ Multiple feedback methods
 
 Suitable for educational demonstrations
 
+---
 
 ## Limitations
 
@@ -152,6 +159,7 @@ Battery life depends on the selected components and usage.
 
 The prototype requires further testing for reliable real-world use.
 
+---
 
 ## Future Improvements
 
@@ -177,12 +185,15 @@ Improved wearable enclosure
 
 AI-based object detection
 
+---
 
 ## Safety Note
 
 This is an educational prototype and should not be considered a certified mobility or safety device.
 
 Users should not rely on the prototype as their only method of navigation or obstacle avoidance. Proper testing and engineering validation would be required before any real-world assistive deployment.
+
+---
 
 ## Technology Used
 
@@ -200,6 +211,7 @@ Wearable Technology
 
 Assistive Technology
 
+---
 
 ## Project Information
 
@@ -209,10 +221,13 @@ Type: Educational Prototype
 Controller: Arduino Nano
 Primary Sensor: HC-SR04 Ultrasonic Sensor
 
+---
+
 ## License
 
 This project is licensed under the MIT License.
 
+---
 
 ## Author
 
