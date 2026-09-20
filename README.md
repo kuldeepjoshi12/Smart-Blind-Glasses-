@@ -39,7 +39,7 @@ Vibration     Monitoring
 
 ---
 
-**## Working Principle**
+## Working Principle
 
 1. The HC-SR04 ultrasonic sensor sends an ultrasonic pulse.
 
@@ -60,7 +60,7 @@ Vibration     Monitoring
 
 ---
 
-**## Components**
+## Components
 
 Component	Purpose
 
